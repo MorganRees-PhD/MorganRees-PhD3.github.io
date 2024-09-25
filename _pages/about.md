@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>mjrr2@kent.ac.uk</a>. University Of Kent. 07985171139.
 
 profile:
   align: right
